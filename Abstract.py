@@ -19,4 +19,4 @@ obj1.task()
 obj1.print(100)
 
 hidden = hiddenClass()
-hidden.task
+hidden.task()
